@@ -39,19 +39,20 @@
 </p>
 
 ---
+ 
 
 ## 📊 GitHub Stats & Streaks  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irshadmuhammed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=irshadmuhammed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irshadmuhammed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=irshadmuhammed&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irshadmuhammed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=irshadmuhammed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,14 +70,3 @@ To make the snake work for your account:
 -->
 
 ---
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <!-- Add your links when ready -->
-  <!--
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  -->
-</p>
