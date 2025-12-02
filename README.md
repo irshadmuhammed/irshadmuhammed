@@ -33,10 +33,7 @@
   <img src="https://skillicons.dev/icons?i=django,fastapi,mongodb,mysql,sqlite" />
 </p>
 
----
- 
-
----
+--- 
 
 ## 🐍 Contribution Animation  
 
