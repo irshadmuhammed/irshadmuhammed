@@ -33,27 +33,8 @@
   <img src="https://skillicons.dev/icons?i=django,fastapi,mongodb,mysql,sqlite" />
 </p>
 
-### ⚙️ Other Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
-
 ---
  
-
-## 📊 GitHub Stats & Streaks  
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=irshadmuhammed&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=irshadmuhammed&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=irshadmuhammed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
