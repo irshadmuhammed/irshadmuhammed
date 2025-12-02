@@ -1,35 +1,82 @@
+<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Muhammed Irshad M</h1>
 <h3 align="center">Back-End Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irshadmuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="irshadmuhammed" />
+  <img src="https://komarev.com/ghpvc/?username=irshadmuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-🚀 **About Me**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Back-End+Developer;AI+%26+ML+Enthusiast;Python+%7C+Django+%7C+Deep+Learning;Building+ML-powered+applications" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me  
+
 - 🔭 Passionate about **AI, Machine Learning, and Backend Engineering**  
-- 🌱 Currently learning **Deep Learning & Django REST Framework**  
-- 💡 I love building scalable back-end systems and AI-powered applications  
-- 📫 Reach me at **irshadmm16@gmail.com**
+- 🌱 Currently learning **Deep Learning** & **Django REST Framework**  
+- 💡 Love building **scalable APIs & AI-powered systems**  
+- 📫 Reach me at **`irshadmm16@gmail.com`**
 
 ---
 
-### 🌐 Connect With Me  
+## 🧠 Tech Stack & Tools  
+
+### 💻 Programming & AI  
 <p align="left">
-<!-- Add links later if you want (LinkedIn, Instagram, Portfolio, etc.) -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🌐 Backend & Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,mongodb,mysql,sqlite" />
+</p>
+
+### ⚙️ Other Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+## 📊 GitHub Stats & Streaks  
 
-#### **Programming & ML Stack**
-Python • Machine Learning • Deep Learning • TensorFlow • NumPy • Pandas  
-Django • REST API • MongoDB • SQL
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irshadmuhammed&show_icons=true&locale=en&layout=compact" alt="irshadmuhammed" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irshadmuhammed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irshadmuhammed&show_icons=true&locale=en" alt="irshadmuhammed" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irshadmuhammed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irshadmuhammed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🐍 Contribution Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!--
+To make the snake work for your account:
+1. Fork: https://github.com/Platane/snk
+2. Follow the README to set it up for `irshadmuhammed`
+-->
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <!-- Add your links when ready -->
+  <!--
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  -->
 </p>
